@@ -1,0 +1,25 @@
+/* common.css */
+a {
+  color: #ffffff;
+}
+
+html {
+  font-size: 62.5%;
+  height: auto;
+  background-color: #ffffff;
+}
+
+body {
+  position: relative;
+  margin: 0 auto;
+  width: auto;
+  height: 100%;
+  line-height: 140%;
+  color: #333333;
+  font-size: 14px;
+  font-size: 1.4rem;
+}
+
+ul li {
+  list-style: none;
+}
